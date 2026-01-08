@@ -11,7 +11,7 @@ View History: Displays all previous calculations stored in memory and file
 Clear History: Users can clear calculation history from memory and file with confirmation
 
 Error Handling: Handles invalid input and division by zero
-
+Example: 
 Simple Calculator
 1. Add
 2. Subtract
